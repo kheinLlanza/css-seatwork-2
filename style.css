@@ -1,13 +1,9 @@
 body {
     margin: 0;
 }
-
-section.row {
-    background-color: yellow;
-}
 header,footer {
     background-color: gray;
-    color: white;
+    color: yellow;
     overflow: hidden;  
     width: 100%;
 }
